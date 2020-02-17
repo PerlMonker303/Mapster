@@ -7,5 +7,15 @@
 <li>Manage the sewer system by placing pipes with the help of a smart system</li>
 </ul>
 
+
+
 <h2>Download and follow the readme.txt instructions.</h2>
 <h3>https://mega.nz/#F!Z9BFkYTY!55c4m1m9_y76PDsDCKpAEw</h3>
+
+<h2>Screenshots</h2>
+
+![Test Image 1](pic1.png)
+
+![Test Image 1](pic2.png)
+
+![Test Image 1](pic3.png)
