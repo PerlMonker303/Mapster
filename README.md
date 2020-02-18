@@ -5,6 +5,7 @@
 <li>Place different roads in your own way</li>
 <li>Add zones to your roads (residential, commercial, industrial)</li>
 <li>Manage the sewer system by placing pipes with the help of a smart system</li>
+<li>Save and load different maps with the option of zooming and navigating through the map</li>
 </ul>
 
 
